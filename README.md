@@ -1,0 +1,2 @@
+# operatorler
+c# öperatörler
