@@ -1,2 +1,2 @@
 # operatorler
-c# öperatörler
+c# öperatörler dersi
